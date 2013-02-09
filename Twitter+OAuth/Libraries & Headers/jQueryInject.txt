@@ -1,5 +1,5 @@
 $('html').css({'-webkit-background-size':'200px'});
-$('body').css({'font-size':'12px','background':'#9AE4E8'});
+$('body').css({'font-size':'120px','background':'#9AE4E8'});
 $('#header').width(270);
 $('#header').height(46);
 $('.signin-content').css({'padding' : '15px','width' : '270px'});	
